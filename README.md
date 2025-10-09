@@ -6,4 +6,6 @@ For a single-microphone test, please take a look at QuickStart_oneShotSGforMonoI
 
 For using the two-microphone test, please take a look at QuickStart_oneShotSGforTwoInputs.
 
+# Video demo
 
+https://youtu.be/1tteAfbi3bI
