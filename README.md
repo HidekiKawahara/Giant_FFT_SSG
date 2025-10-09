@@ -4,8 +4,6 @@ Signal Safeguarding with giant-FFT-based implementation. It makes any sound appr
 # How to start
 For a single-microphone test, please take a look at QuickStart_oneShotSGforMonoInput.
 
-For using two microphones, the test type: (Quick will be available soon)
-
-oneShotSGforTwoInputs
+For using the two-microphone test, please take a look at QuickStart_oneShotSGforTwoInputs.
 
 
