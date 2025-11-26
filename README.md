@@ -1,5 +1,5 @@
 # acouticCheckerByGFFT
-This is an applicatio nof giant-FFT for acoustic measurement tool. Please check acouticCheckerByGFFT.md in doc folder.
+This is an applicatio nof giant-FFT for acoustic measurement tool. Please check acouticCheckerByGFFT.md in doc folder. This is a pre-release version. Stay tuned.
 
 # Giant_FFT_SSG
 Signal Safeguarding with giant-FFT-based implementation. It makes any sound appropriate for acoustic measurement. Additionally, signal safeguarding can be applied retrospectively.
