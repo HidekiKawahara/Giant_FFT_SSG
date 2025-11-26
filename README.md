@@ -12,3 +12,5 @@ For using the two-microphone test, please take a look at QuickStart_oneShotSGfor
 # Video demo
 
 [https://youtu.be/1tteAfbi3bI](https://youtu.be/W0MVSrcgNzQ?si=FbYxhfuaFvrMVjYe)
+
+New one will be here by 27/Nov. 2025.
