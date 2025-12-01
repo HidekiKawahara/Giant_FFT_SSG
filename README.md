@@ -5,7 +5,7 @@ Välimäki, V., & Bilbao, S. (2023). Giant FFTs for Sample-Rate Conversion.
 Journal of the Audio Engineering Society, 71(3), 88–99.
 DOI: https://doi.org/10.17743/jaes.2022.0061
 
-![What is giant-FFT](images/giantFFTSRC.jpg)
+![What is giant-FFT](images/giantFFTSRC.png)
 
 # acouticCheckerByGFFT
 This is an applicatio nof giant-FFT for acoustic measurement tool. Please check acouticCheckerByGFFT.md in doc folder. This is a pre-release version. Stay tuned.
