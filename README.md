@@ -8,6 +8,9 @@ DOI: https://doi.org/10.17743/jaes.2022.0061
 # acouticCheckerByGFFT
 This is an applicatio nof giant-FFT for acoustic measurement tool. Please check acouticCheckerByGFFT.md in doc folder. This is a pre-release version. Stay tuned.
 
+![Acoustic measurement application](images/acousicMeasurement.png)
+
+![Educational application](images/tangibleSound.png)
 
 
 # Giant_FFT_SSG
